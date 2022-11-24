@@ -1,6 +1,5 @@
 # Welcome to my Website!
 **I am Mark Philip Euste of 9-Lewis**
-[alt text]()
 
 > My hobbies are:
 > 1. Playing Games
